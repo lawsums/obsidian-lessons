@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "缓存项目",
-      "path": "Dairies/缓存项目.md"
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "Homepage",
-      "path": "Templates/Homepage.md"
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "缓存项目",
+      "path": "Dairies/缓存项目.md"
     },
     {
       "basename": "MESH组网",
@@ -99,10 +103,6 @@
     {
       "basename": "2026-02-11",
       "path": "Dairies/2026-02-11.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/面试题系列.md"
     },
     {
       "basename": "面试1",
