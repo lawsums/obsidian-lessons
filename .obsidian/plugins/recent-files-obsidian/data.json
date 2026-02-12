@@ -9,16 +9,16 @@
       "path": "Templates/Homepage.md"
     },
     {
+      "basename": "28. 找出字符串中第一个匹配项的下标",
+      "path": "Leetcode/28. 找出字符串中第一个匹配项的下标.md"
+    },
+    {
       "basename": "Obisidian 中怎么使用 git",
       "path": "Temp/Obisidian 中怎么使用 git.md"
     },
     {
       "basename": "git",
       "path": "Temp/git.md"
-    },
-    {
-      "basename": "28. 找出字符串中第一个匹配项的下标",
-      "path": "Leetcode/28. 找出字符串中第一个匹配项的下标.md"
     },
     {
       "basename": "003_不定期任务",
@@ -191,14 +191,6 @@
     {
       "basename": "Vscode插件",
       "path": "Software/Vscode插件.md"
-    },
-    {
-      "basename": "Vscode",
-      "path": "Software/Vscode.md"
-    },
-    {
-      "basename": "KMP板子",
-      "path": "代码模版/KMP板子.md"
     }
   ],
   "omittedPaths": [],
