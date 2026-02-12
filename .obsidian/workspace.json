@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "38e134ca590377d3",
+            "id": "37b660903a828199",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_毕业设计/MESH组网.md",
+                "file": "Dairies/缓存项目.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,6 +52,18 @@
                 }
               },
               "icon": "lucide-file",
+              "title": "缓存项目"
+            }
+          },
+          {
+            "id": "38e134ca590377d3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "000_毕业设计/MESH组网.md"
+              },
+              "icon": "excalidraw-icon",
               "title": "MESH组网"
             }
           }
@@ -185,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000_毕业设计/MESH组网.md",
+                "file": "Dairies/缓存项目.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MESH组网 的大纲"
+              "title": "缓存项目 的大纲"
             }
           },
           {
@@ -334,9 +346,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "38e134ca590377d3",
+  "active": "37b660903a828199",
   "lastOpenFiles": [
     "Templates/Homepage.md",
+    "000_毕业设计/MESH组网.md",
     "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
     "Attachments/Pasted image 20260212151025.png",
     "Attachments/Pasted image 20260212151021.png",
@@ -352,7 +365,6 @@
     "Attachments",
     "掌握 CSMA/CD 协议的相关知识。（包括工作原理、最长冲突检测时间计算、最短帧长的计算、争用期的计算).md",
     "test.cpp",
-    "000_毕业设计/MESH组网.md",
     "Temp/git.md",
     "Temp/Obisidian 中怎么使用 git.md",
     "Templates/学习esp32s3.md",
