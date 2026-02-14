@@ -14,30 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Homepage/Homepage.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "d393aee86d81fbdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/面试题系列.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "面试题系列"
+              "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/面试题系列.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面试题系列 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -303,7 +278,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "media-extended:Open media": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "diagram-zoom-drag:Picker mode": false,
       "bases:新建数据库": false,
@@ -333,53 +307,54 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d393aee86d81fbdb",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "Templates/Leetcode_problem_template.md",
+    "Leetcode/39.组合总和.md",
+    "Leetcode/39.组合总和.cpp~",
+    "Leetcode/39.组合总和.cpp",
+    "Templates/Leetcode_problem_template 2.md",
+    "操作系统/红黑树有哪些性质.md",
+    "Leetcode/14. 最长公共前缀.md",
+    "Temp/绝命毒师.md",
+    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/学习esp32s3.md",
+    "数据结构/红黑树.md",
+    "Dairies/2026-02-14.md",
+    "Leetcode/1. 两数之和.md",
+    "Leetcode/2. 两数相加.cpp",
+    "Dairies/解决gdb字符集问题.md",
+    "Software/gdb 常用指令.md",
+    "Software/gdb.md",
+    "Templates/Homepage/第4章 序列式容器.md",
+    "Templates/Homepage/STL源码剖析.md",
+    "Dairies/2026-02-15.md",
+    "Temp/整理一下vscode_vim_idea快捷键.md",
+    "Software/Vscode快捷键.md",
+    "Temp/关于钱的问题.md",
+    "Temp/003_不定期任务.md",
+    "整理一下vscode/vim/idea快捷键.md",
+    "整理一下vscode/vim",
+    "整理一下vscode",
+    "Software/w64dev自带指令.md",
+    "Attachments/Pasted image 20260213202830.png",
+    "Attachments/Pasted image 20260213202824.png",
+    "Attachments/Pasted image 20260213202815.png",
+    "Attachments/Pasted image 20260213202812.png",
+    "Software/mingw.md",
+    "未命名.canvas",
+    "Leetcode/189. 轮转数组.cpp~",
+    "Leetcode/189. 轮转数组.cpp",
+    "Leetcode/41. 缺失的第一个正数.cpp~",
+    "Leetcode/41. 缺失的第一个正数.cpp",
     "Templates/Homepage",
-    "Dairies/缓存项目.md",
-    "000_毕业设计/MESH组网.md",
-    "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
     "Attachments/Pasted image 20260212151025.png",
     "Attachments/Pasted image 20260212151021.png",
     "Attachments/Pasted image 20260212143730.png",
     "Attachments/Pasted image 20260211153424.png",
     "Attachments/Pasted image 20260209132718.png",
     "Attachments/Pasted image 20260207130824.png",
-    "Attachments/Pasted Image 20260203175718_313.png",
-    "Attachments/Pasted Image 20260203175630_454.png",
-    "Attachments/Pasted Image 20260203160850_279.png",
-    "Attachments/Pasted Image 20260203160743_303.png",
-    "test.lua",
-    "Attachments",
-    "掌握 CSMA/CD 协议的相关知识。（包括工作原理、最长冲突检测时间计算、最短帧长的计算、争用期的计算).md",
-    "test.cpp",
-    "Temp/git.md",
-    "Temp/Obisidian 中怎么使用 git.md",
-    "Temp/003_不定期任务.md",
-    "Dairies/学习科目四.md",
-    "数据结构/KMP相关题目.md",
-    "Media Note - 算法讲解101【扩展】 KMP算法相关题目.md",
-    "Temp/第4章 序列式容器.md",
-    "Dairies/2026-02-14.md",
-    "Temp/STL源码剖析.md",
-    "Templates/Buttons.md",
-    "Temp/007_书籍.md",
-    "Clippings/2026-02-11-write_title.md",
-    "Temp/Effctive STL.md",
-    "Temp/另一本日式小说.md",
-    "Leetcode/328. 奇偶链表.md",
-    "Leetcode/328. 奇偶链表.cpp~",
-    "Leetcode/328. 奇偶链表.cpp",
-    "Templates/Leetcode_problem_template.md",
-    "Templates/Leetcode_problem_template 1.md",
-    "Temp/另一本日_大纲.md",
-    "Leetcode/4045. 最长平衡子数组 I.cpp~",
-    "Leetcode/4045. 最长平衡子数组 I.cpp",
-    "Leetcode/1285. 将二叉搜索树变平衡.cpp~",
-    "Leetcode/1285. 将二叉搜索树变平衡.cpp",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
 }

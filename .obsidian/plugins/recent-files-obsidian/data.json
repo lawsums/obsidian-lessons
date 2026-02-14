@@ -1,12 +1,164 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "39.组合总和",
+      "path": "Leetcode/39.组合总和.md"
+    },
+    {
+      "basename": "Leetcode_problem_template",
+      "path": "Templates/Leetcode_problem_template.md"
+    },
+    {
+      "basename": "Leetcode_problem_template 2",
+      "path": "Templates/Leetcode_problem_template 2.md"
+    },
+    {
+      "basename": "红黑树有哪些性质",
+      "path": "操作系统/红黑树有哪些性质.md"
+    },
+    {
+      "basename": "14. 最长公共前缀",
+      "path": "Leetcode/14. 最长公共前缀.md"
+    },
+    {
+      "basename": "绝命毒师",
+      "path": "Temp/绝命毒师.md"
+    },
+    {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "红黑树",
+      "path": "数据结构/红黑树.md"
+    },
+    {
+      "basename": "2026-02-14",
+      "path": "Dairies/2026-02-14.md"
+    },
+    {
+      "basename": "1. 两数之和",
+      "path": "Leetcode/1. 两数之和.md"
+    },
+    {
+      "basename": "2. 两数相加",
+      "path": "Leetcode/2. 两数相加.cpp"
+    },
+    {
+      "basename": "解决gdb字符集问题",
+      "path": "Dairies/解决gdb字符集问题.md"
+    },
+    {
+      "basename": "gdb 常用指令",
+      "path": "Software/gdb 常用指令.md"
+    },
+    {
+      "basename": "gdb",
+      "path": "Software/gdb.md"
+    },
+    {
+      "basename": "第4章 序列式容器",
+      "path": "Templates/Homepage/第4章 序列式容器.md"
+    },
+    {
+      "basename": "STL源码剖析",
+      "path": "Templates/Homepage/STL源码剖析.md"
+    },
+    {
+      "basename": "2026-02-15",
+      "path": "Dairies/2026-02-15.md"
+    },
+    {
+      "basename": "整理一下vscode_vim_idea快捷键",
+      "path": "Temp/整理一下vscode_vim_idea快捷键.md"
+    },
+    {
+      "basename": "Vscode快捷键",
+      "path": "Software/Vscode快捷键.md"
+    },
+    {
+      "basename": "关于钱的问题",
+      "path": "Temp/关于钱的问题.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Temp/003_不定期任务.md"
+    },
+    {
+      "basename": "w64dev自带指令",
+      "path": "Software/w64dev自带指令.md"
+    },
+    {
+      "basename": "mingw",
+      "path": "Software/mingw.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "面试1",
+      "path": "Temp/面试1.md"
+    },
+    {
+      "basename": "智能指针使用的时候有哪些坑",
+      "path": "操作系统/智能指针使用的时候有哪些坑.md"
+    },
+    {
+      "basename": "obsidian-quick-file-yank",
+      "path": "Temp/obsidian-quick-file-yank.md"
+    },
+    {
+      "basename": "004_闪念",
+      "path": "Temp/004_闪念.md"
+    },
+    {
+      "basename": "开发inference_copy插件",
+      "path": "Dairies/开发inference_copy插件.md"
+    },
+    {
+      "basename": "2026-02-13",
+      "path": "Dairies/2026-02-13.md"
+    },
+    {
+      "basename": "合成天下",
+      "path": "Temp/合成天下.md"
+    },
+    {
+      "basename": "学习科目四",
+      "path": "Dairies/学习科目四.md"
+    },
+    {
+      "basename": "2026-02-12",
+      "path": "Dairies/2026-02-12.md"
+    },
+    {
+      "basename": "日记",
+      "path": "Dairies/日记.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.canvas"
+    },
+    {
+      "basename": "189. 轮转数组",
+      "path": "Leetcode/189. 轮转数组.md"
+    },
+    {
+      "basename": "41. 缺失的第一个正数",
+      "path": "Leetcode/41. 缺失的第一个正数.md"
+    },
+    {
+      "basename": "C++11新特性",
+      "path": "操作系统/C++11新特性.md"
     },
     {
       "basename": "缓存项目",
@@ -29,28 +181,12 @@
       "path": "Temp/git.md"
     },
     {
-      "basename": "003_不定期任务",
-      "path": "Temp/003_不定期任务.md"
-    },
-    {
       "basename": "KMP相关题目",
       "path": "数据结构/KMP相关题目.md"
     },
     {
       "basename": "Media Note - 算法讲解101【扩展】 KMP算法相关题目",
       "path": "Media Note - 算法讲解101【扩展】 KMP算法相关题目.md"
-    },
-    {
-      "basename": "2026-02-12",
-      "path": "Dairies/2026-02-12.md"
-    },
-    {
-      "basename": "第4章 序列式容器",
-      "path": "Temp/第4章 序列式容器.md"
-    },
-    {
-      "basename": "STL源码剖析",
-      "path": "Temp/STL源码剖析.md"
     },
     {
       "basename": "Buttons",
@@ -63,134 +199,6 @@
     {
       "basename": "2026-02-11-write_title",
       "path": "Clippings/2026-02-11-write_title.md"
-    },
-    {
-      "basename": "Effctive STL",
-      "path": "Temp/Effctive STL.md"
-    },
-    {
-      "basename": "另一本日式小说",
-      "path": "Temp/另一本日式小说.md"
-    },
-    {
-      "basename": "328. 奇偶链表",
-      "path": "Leetcode/328. 奇偶链表.md"
-    },
-    {
-      "basename": "Leetcode_problem_template",
-      "path": "Templates/Leetcode_problem_template.md"
-    },
-    {
-      "basename": "Leetcode_problem_template 1",
-      "path": "Templates/Leetcode_problem_template 1.md"
-    },
-    {
-      "basename": "另一本日_大纲",
-      "path": "Temp/另一本日_大纲.md"
-    },
-    {
-      "basename": "一本日式小说",
-      "path": "Temp/一本日式小说.md"
-    },
-    {
-      "basename": "学习缓存项目",
-      "path": "Dairies/学习缓存项目.md"
-    },
-    {
-      "basename": "2026-02-13",
-      "path": "Dairies/2026-02-13.md"
-    },
-    {
-      "basename": "2026-02-11",
-      "path": "Dairies/2026-02-11.md"
-    },
-    {
-      "basename": "面试1",
-      "path": "Temp/面试1.md"
-    },
-    {
-      "basename": "z_写标题",
-      "path": "Temp/z_写标题.md"
-    },
-    {
-      "basename": "48. 旋转图像",
-      "path": "Leetcode/48. 旋转图像.md"
-    },
-    {
-      "basename": "2026-02-11-anki_card",
-      "path": "Clippings/2026-02-11-anki_card.md"
-    },
-    {
-      "basename": "z_写知识卡片",
-      "path": "Temp/z_写知识卡片.md"
-    },
-    {
-      "basename": "z_指令",
-      "path": "Temp/z_指令.md"
-    },
-    {
-      "basename": "Snippet_content_template",
-      "path": "Templates/Snippet_content_template.md"
-    },
-    {
-      "basename": "2026-02-11-cd",
-      "path": "Clippings/2026-02-11-cd.md"
-    },
-    {
-      "basename": "2026-02-11-hpp2puml",
-      "path": "Clippings/2026-02-11-hpp2puml.md"
-    },
-    {
-      "basename": "2026-02-11-anki_interview_problem",
-      "path": "Clippings/2026-02-11-anki_interview_problem.md"
-    },
-    {
-      "basename": "auto&&属于什么用法",
-      "path": "操作系统/auto&&属于什么用法.md"
-    },
-    {
-      "basename": "cd",
-      "path": "Clippings/cd.md"
-    },
-    {
-      "basename": "z_写面试题",
-      "path": "Temp/z_写面试题.md"
-    },
-    {
-      "basename": "Snippet_code_template",
-      "path": "Templates/Snippet_code_template.md"
-    },
-    {
-      "basename": "Mandala_template",
-      "path": "Templates/Mandala_template.md"
-    },
-    {
-      "basename": "printf为什么可以打印不定长的内容",
-      "path": "操作系统/printf为什么可以打印不定长的内容.md"
-    },
-    {
-      "basename": "格式字符串",
-      "path": "操作系统/格式字符串.md"
-    },
-    {
-      "basename": "学习科目四",
-      "path": "Dairies/学习科目四.md"
-    },
-    {
-      "basename": "VSCodeVimVim star Vim for Visual Studio Code 1",
-      "path": "Clippings/VSCodeVimVim star Vim for Visual Studio Code 1.md"
-    },
-    {
-      "basename": "Vscode-vim",
-      "path": "Software/Vscode-vim.md"
-    },
-    {
-      "basename": "VSCodeVimVim star Vim for Visual Studio Code",
-      "path": "Clippings/VSCodeVimVim star Vim for Visual Studio Code.md"
-    },
-    {
-      "basename": "Vscode插件",
-      "path": "Software/Vscode插件.md"
     }
   ],
   "omittedPaths": [],
